@@ -1,0 +1,8 @@
+set zju 3
+set zju 4
+set zju 4
+set stju 6
+del zju
+set stju 8
+del stju
+set zju 3
